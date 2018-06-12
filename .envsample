@@ -1,0 +1,6 @@
+# Set .env in the current dir.
+# or set ~/.env.crowicli
+CROWI_ACCESSTOKEN='xxxxxxxxxxxxxxxxxxxxxxxxxxx'
+CROWI_URI='http://localhost:3000'
+CROWI_INSECURE=false
+CROWI_USER=yamada
