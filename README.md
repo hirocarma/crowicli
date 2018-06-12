@@ -1,6 +1,6 @@
 # crowicli
 
-Command line client for [crowi-plus](https://github.com/weseek/crowi-plus).
+Command line client for [crowi](http://site.crowi.wiki) and [growi](https://growi.org/).
 
 ## Overview
 
